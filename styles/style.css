@@ -184,7 +184,7 @@ strong {
     gap: 40px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .cabecalho {
         padding: 10%;
     }
